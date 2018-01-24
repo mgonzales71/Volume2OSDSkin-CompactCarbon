@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLskinSettings>
+  <Info>
+    <Author>Compact Carbon</Author>
+    <WebSite>http://github.com/mgonzales71</WebSite>
+    <SkinVersion>2.0</SkinVersion>
+  </Info>
+  <OSD>
+    <!--Available values: BitMoveUp, BitMoveRight, BitStripBottom, BitStripRight, Horizontal, Vertical-->
+    <MeterOrientation>horizontal</MeterOrientation>
+    <MeterMin>0</MeterMin>
+    <MeterMax>102</MeterMax>
+    <MeterPosition>
+      <X>13</X>
+      <Y>24</Y>
+    </MeterPosition>
+    <FadeSteps>43</FadeSteps>
+    <ShowSteps>0</ShowSteps>
+    <HideMeterOnMute>false</HideMeterOnMute>
+    <Colorization>false</Colorization>
+    <!--Value format: #AARRGGBB. -1 - Use system color-->
+    <ColorizationColor>-1</ColorizationColor>
+  </OSD>
+  <MeterEffect>
+    <ShowMeterEffect>true</ShowMeterEffect>
+    <!--Available values: BitMoveUp, BitMoveRight, BitStripBottom, BitStripRight, Horizontal, Vertical-->
+    <MeterOrientation>BitStripBottom</MeterOrientation>
+    <MeterMin>0</MeterMin>
+    <MeterMax>3</MeterMax>
+    <!--Available values: -1 - plNone, 0 - plAfterBack, 1 - plAfterAnimation, 2 - plAfterMeter, 3 - plAfterText, 4 - plAfterDigits, 5 - plAfterGlass-->
+    <LayerIndex>0</LayerIndex>
+    <HideMeterEffectOnMute>true</HideMeterEffectOnMute>
+    <MeterPosition>
+      <X>6</X>
+      <Y>6</Y>
+    </MeterPosition>
+  </MeterEffect>
+  <PeakMeter>
+    <ShowPeakMeter>true</ShowPeakMeter>
+    <!--Available values: BitStripBottom, BitStripRight, Horizontal-->
+    <MeterOrientation>horizontal</MeterOrientation>
+    <MeterMax>102</MeterMax>
+    <MeterStyle>Stereo</MeterStyle>
+    <!--Available values: -1 - plNone, 0 - plAfterBack, 1 - plAfterAnimation, 2 - plAfterMeter, 3 - plAfterText, 4 - plAfterDigits, 5 - plAfterGlass-->
+    <LayerIndex>5</LayerIndex>
+    <MeterLeftInvert>false</MeterLeftInvert>
+    <MeterRightInvert>false</MeterRightInvert>
+    <MeterLeftPosition>
+      <X>13</X>
+      <Y>61</Y>
+    </MeterLeftPosition>
+    <MeterRightPosition>
+      <X>13</X>
+      <Y>67</Y>
+    </MeterRightPosition>
+  </PeakMeter>
+  <Text>
+    <ShowText>true</ShowText>
+    <TextPosition>
+      <X>56</X>
+      <Y>21</Y>
+    </TextPosition>
+    <Size>12</Size>
+    <!--Value format: #AARRGGBB-->
+    <Color>#FFFFFFFF</Color>
+    <Format>%d%%</Format>
+    <!--Value format: #AARRGGBB-->
+    <ColorMute>#FFFF0000</ColorMute>
+    <FormatMute>%d%%</FormatMute>
+    <!--Available values: 0 - taLeft, 1 - taCenter, 2 - taRight-->
+    <Alignment>1</Alignment>
+    <FontName>Lucida Console</FontName>
+    <FontBold>true</FontBold>
+    <FontItalic>false</FontItalic>
+    <HideTextOnMute>true</HideTextOnMute>
+    <!--Available values: -1 - plNone, 0 - plAfterBack, 1 - plAfterAnimation, 2 - plAfterMeter, 4 - plAfterDigits, 5 - plAfterGlass, 6 - plOnMeterEffect-->
+    <CDDriveLetter Enable="true" X="25" Y="20" FontName="Lucida Console" Size="24" Color="#FFFFFFFF" Bold="true" Italic="false" Alignment="1"/>
+    <USBDriveLetter Enable="true" X="25" Y="20" FontName="Lucida Console" Size="24" Color="#FFFFFFFF" Bold="true" Italic="false" Alignment="1"/>
+	<USBFriendlyName Enable="true" X="5" Y="71" FontName="Gill Sans MT Condensed" Size="13" Color="#FFFFFFFF" Bold="false" Italic="false" Alignment="0"/>
+    <LayerIndex>-1</LayerIndex>
+  </Text>
+  <NotificationText>
+    <Show>false</Show>
+    <Position>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>0</Width>
+      <Height>0</Height>
+    </Position>
+    <Size>0</Size>
+    <!--Value format: #AARRGGBB-->
+    <Color>#00000000</Color>
+    <!--Available values: 0 - taLeft, 1 - taCenter, 2 - taRight-->
+    <Alignment>0</Alignment>
+    <FontName></FontName>
+    <FontBold>false</FontBold>
+    <FontItalic>false</FontItalic>
+    <!--Available values: -1 - plNone, 0 - plAfterBack, 1 - plAfterAnimation, 2 - plAfterMeter, 4 - plAfterDigits, 5 - plAfterGlass, 6 - plOnMeterEffect-->
+    <LayerIndex>0</LayerIndex>
+  </NotificationText>
+</XMLskinSettings>

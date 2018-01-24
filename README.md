@@ -6,7 +6,7 @@
 ![animated-sample](https://user-images.githubusercontent.com/6510026/35310039-4cd1fef8-0064-11e8-9696-276d72301010.gif)
 
 ## :package: release(s) downloadable here:
-https://github.com/mgonzales71/Volume2OSDSkin-CompactCarbon/releases
+https://github.com/mgonzales71/Volume2OSDSkin-CompactCarbon/releases/latest
 
 ### More Screenshots / Examples of Skin
 

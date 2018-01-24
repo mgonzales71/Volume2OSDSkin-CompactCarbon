@@ -1,11 +1,14 @@
 # Volume2OSDSkin-CompactCarbon
  OSD Skin for Volume2 - Compact Carbon
- 
- **Animated Example of Skin**
- 
+
+### Animated Example of Skin
+
 ![animated-sample](https://user-images.githubusercontent.com/6510026/35310039-4cd1fef8-0064-11e8-9696-276d72301010.gif)
 
-**More Screenshots / Examples of Skin**
+## :package: release(s) downloadable here:
+https://github.com/mgonzales71/Volume2OSDSkin-CompactCarbon/releases
+
+### More Screenshots / Examples of Skin
 
 ![volume](https://user-images.githubusercontent.com/6510026/35310062-62a1e284-0064-11e8-9d83-4aef5f3a6cce.png)
 ![muted](https://user-images.githubusercontent.com/6510026/35310059-625c26e0-0064-11e8-8b4f-22a73bbd1ecc.png)

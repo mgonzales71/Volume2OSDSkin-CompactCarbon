@@ -18,7 +18,7 @@ https://github.com/mgonzales71/Volume2OSDSkin-CompactCarbon/releases
 ![usb connect](https://user-images.githubusercontent.com/6510026/35310060-6273c246-0064-11e8-9820-93ad8cf75fd2.png)
 ![usb disconnect](https://user-images.githubusercontent.com/6510026/35310061-6288b35e-0064-11e8-875f-4b73bafcc54c.png)
 
-# Fonts Used (and links if needed)
+## Fonts Used in Skin (and links if needed)
 
 **Lucida Console**
 
@@ -26,7 +26,6 @@ https://github.com/mgonzales71/Volume2OSDSkin-CompactCarbon/releases/download/1.
 
 **Gill Sans MT Condensed**
 
-https://github.com/mgonzales71/Volume2OSDSkin-CompactCarbon/releases/download/1.0/Gill.Sans.MT.Condensed.zip
-
+https://github.com/mgonzales71/Volume2OSDSkin-CompactCarbon/releases/download/1.0/Gill.Sans.MT.Condensed.ttf.zip
 
 Some icons courtesy of https://icons8.com/ free license. Thanks.

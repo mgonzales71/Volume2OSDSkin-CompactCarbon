@@ -14,3 +14,5 @@ More Screenshots / Examples of Skin:
 ![eject media](https://user-images.githubusercontent.com/6510026/35310058-622a3f2c-0064-11e8-9043-fa7794828097.png)
 ![usb connect](https://user-images.githubusercontent.com/6510026/35310060-6273c246-0064-11e8-9820-93ad8cf75fd2.png)
 ![usb disconnect](https://user-images.githubusercontent.com/6510026/35310061-6288b35e-0064-11e8-875f-4b73bafcc54c.png)
+
+Some icons courtesy of https://icons8.com/ free license. Thanks.
